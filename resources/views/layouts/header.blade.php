@@ -1,1 +1,8 @@
-<h1>Header</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+    @vite(['resources/css/app.css'])
+</head>
+
+<body>

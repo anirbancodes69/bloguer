@@ -1,1 +1,4 @@
-<h1>Footer</h1>
+@vite(['resources/js/app.js'])
+</body>
+
+</html>

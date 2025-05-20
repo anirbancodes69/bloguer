@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<h1>Home</h1>
+<!-- Your Bootstrap-powered content -->
+<button class="btn btn-primary">Test Button</button>
 <img src="{{asset('assets/images/blog/1.webp')}}" alt="">
 @endsection
